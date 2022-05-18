@@ -10,7 +10,7 @@
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
-For this project I have used the disaster data provided by Udacity in order to develop a Machine learning Pipeline with the purpose of categorizing messages based on type and emmergency. 
+For this project I have used the disaster data provided by Udacity in order to categorize messages based on type and emmergency. The dataset containing real data based on pre-labelled tweets is used in developing a Machine learning Pipeline model that can make a big difference in health and security dillemas by generating alerts using different word triggers. The results are displayed in a web application that has been implemented as a real-time classification system that allows the user to imput a message and receive a predictive category. This projects is a starting point for my research in the field of health statistics, as I am a Phd student with most of the research in the telemedicine area. Conscientious about the project limitations I intend to extend this research using data from the telemedicine field. 
 
 ![Screenshot 1](https://github.com/claudiaandreea/Project2_Disaster_Response_Pipeline/blob/main/DisasterResponseProject.png)
 
