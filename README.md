@@ -37,12 +37,18 @@ ML Pipeline Preparation.ipynb -  create the ML pipeline
 - README.md
 
 ## Execution steps <a name="steps"></a>
-In order to run the model use the following commands:
+In order to run the model use the following commands.
 
-For the process.py : python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
-For the train_classifier : python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
-For the run.py : python run.py
-For the web app follow the link : http://0.0.0.0:3001/
+1. Run the process.py script by: 
+**python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db**
+
+2. Run the train_classifier by: 
+**python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl**
+
+3. Run the run.py by: 
+**python run.py**
+
+4. Open the web app follow the link : http://0.0.0.0:3001/
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
