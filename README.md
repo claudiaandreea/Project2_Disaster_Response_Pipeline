@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project I have used the disaster data provided by Udacity in order to develop a Machine learning Pipeline with the purpose of categorizing messages based on type and emmergency. 
 
 ***Screenshot 1: App analysis of the data base***
-![Screenshot 1](https://github.com/claudiaandreea/Disaster-Response-Pipeline/blob/master/DisasterResponse.JPG)
+![Screenshot 1](https://github.com/claudiaandreea/Project2_Disaster_Response_Pipeline/blob/main/DisasterResponseProject.png)
 
 ## File Descriptions <a name="files"></a>
 ETL Pipeline Preparation.ipynb - create the ETL pipeline
